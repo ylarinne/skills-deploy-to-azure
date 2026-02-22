@@ -13,6 +13,7 @@ env:
   DOCKER_IMAGE_NAME: ylarinne-azure-ttt
   AZURE_WEBAPP_NAME: ylarinne-ttt-app
   ###############################################
+  
 
 jobs:
   build:
