@@ -8,11 +8,11 @@
 -->
 
 # Deploy to Azure
-
+![Deploy to staging](https://github.com/ylarinne/skills-deploy-to-azure/actions/workflows/deploy-staging.yml/badge.svg)](https://github.com/ylarinne/skills-deploy-to-azure/actions/workflows/deploy-staging.yml)
 _Create two deployment workflows using GitHub Actions and Microsoft Azure._
 
 </header>
-[![Deploy to production](https://github.com/ylarinne/skills-deploy-to-azure/actions/workflows/deploy-prod.yml/badge.svg)](https://github.com/ylarinne/skills-deploy-to-azure/actions/workflows/deploy-prod.yml)
+
 <!--
   <<< Author notes: Step 6 >>>
   Start this step by acknowledging the previous step.
