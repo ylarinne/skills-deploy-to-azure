@@ -12,7 +12,7 @@
 _Create two deployment workflows using GitHub Actions and Microsoft Azure._
 
 </header>
-
+[![Deploy to production](https://github.com/ylarinne/skills-deploy-to-azure/actions/workflows/deploy-prod.yml/badge.svg)](https://github.com/ylarinne/skills-deploy-to-azure/actions/workflows/deploy-prod.yml)
 <!--
   <<< Author notes: Step 6 >>>
   Start this step by acknowledging the previous step.
